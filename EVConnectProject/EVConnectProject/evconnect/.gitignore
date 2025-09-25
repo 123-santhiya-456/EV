@@ -1,0 +1,13 @@
+# Node / React
+node_modules/
+build/
+dist/
+
+# Firebase / Google
+*.json
+.env
+
+# Python / Flask
+__pycache__/
+*.pyc
+*.pyo
